@@ -1,4 +1,4 @@
-package com.example.Course_Review;
+package com.example.Course_Review.Course;
 
 
 public class Course {
